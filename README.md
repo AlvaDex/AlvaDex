@@ -1,24 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on **social network for readers** 📚<br><br>🪴 I'm currently learning **Flutter & Dart**<br><br>⚡ Fun fact: **Did you know? The first computer bug was an actual bug!** 🐛💻
+# 👋 ¡Hola, soy [Tu Nombre Completo]!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Cloud+Security+%7C+DevSecOps;Construyendo+el+futuro+seguro;Aprendiz+eterno+de+la+nube)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlvaDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlvaDevs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlvaDevs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlvaDevs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlvaDevs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛡️ Sobre mí
+
+🎓 Actualmente cursando el **Bootcamp de Especialista en Ciberseguridad en TripleTen**. 
+🚀 Próximo paso: iniciar **Ingeniería en Sistemas Computacionales en UVM México** para consolidar fundamentos. 
+☁️ Apasionado por la **seguridad en la nube, DevSecOps y la automatización segura**. 
+🧪 Aprendiendo haciendo: laboratorios, CTFs y proyectos personales.
+
+---
+
+## 📜 Certificaciones y Badges
+
+| Certificación / Badge | Emisor | Año |
+|------------------------|--------|------|
+| [Ej: CompTIA Security+] | CompTIA | 2026 |
+| [Ej: AWS Cloud Practitioner] | Amazon Web Services | 2027 |
+| [Google Cloud Skill Badge: Create and Manage Cloud Resources] | Google Cloud | 2026 |
+| [Hack The Box: Intro to Dante] | Hack The Box | 2026 |
+
+*(Aquí irás añadiendo conforme avances)*
+
+---
+
+
+## ☁️ Google Cloud Skill Badges (destacados)
+
+> 🎖️ Insignias clave obtenidas en laboratorios prácticos de Google Cloud.
+
+| Área | Insignias destacadas |
+|------|----------------------|
+| 🔒 Seguridad y Protección de Datos | <img src="https://cdn.qwiklabs.com/xira2p%2F3wlj6940tZP0W54GdMCwP144nYckzIpKbajY%3D" width="200" title="Implement Cloud Security Fundamentals"><br><sub>Implement Cloud Security Fundamentals (31/05/26)</sub><br><img src="https://cdn.qwiklabs.com/1EPEhYwumPaRgNN6c2RmdB0YK4bMyjxKdXR9O3mcko0%3D" width="200" title="Get Started with Sensitive Data Protection"><br><sub>Get Started with Sensitive Data Protection (02/06/26)</sub> |
+| 🖥️ Infraestructura y Cómputo | <img src="https://cdn.qwiklabs.com/9lB99Ij%2BMz%2FyOV0484V995beQHBMMCw0kimBFfZVtcM%3D" width="200" title="The Basics of Google Cloud Compute"><br><sub>The Basics of Google Cloud Compute (31/05/26)</sub><br><img src="https://cdn.qwiklabs.com/65Pd0zpjzRHMv49XZZhvHJkbQK2xACKFY1ldTPWsJL8%3D" width="200" title="Implementing Cloud Load Balancing for Compute Engine"><br><sub>Implementing Cloud Load Balancing (02/06/26)</sub> |
+| 📈 Observabilidad | <img src="https://cdn.qwiklabs.com/y%2BTesuIvsKnrFb3Xtfp47Cu%2Fx%2FoX1YEXD0y%2Fs%2BPNRak%3D" width="200" title="Monitor and Log with Google Cloud Observability"><br><sub>Monitor and Log with Google Cloud Observability (02/06/26)</sub> |
+
+[🔗 Ver todos mis badges de Google Cloud](https://www.skills.google/public_profiles/73a3093e-533f-402d-81bc-6a2a0b5216cd/badges/24633286)
+
+## 🧰 Proyectos Destacados
+
+### 🔐 Cloud Security Lab
+> Infraestructura como código para desplegar un entorno seguro en AWS con VPC, IAM restrictivo, y monitoreo básico.  
+> *Tecnologías: Terraform, AWS, Python*  
+> [Repositorio](https://github.com/[tu-usuario]/cloud-security-lab)
+
+### 🐳 DevSecOps Pipeline Demo
+> Pipeline CI/CD con GitHub Actions que construye una app Python, escanea vulnerabilidades en el contenedor con Trivy y despliega en un clúster local.  
+> *Tecnologías: Docker, GitHub Actions, Trivy, Kubernetes*  
+> [Repositorio](https://github.com/[tu-usuario]/devsecops-pipeline)
+
+### 🧪 CTF Write-ups y Laboratorios
+> Mis soluciones a retos de Hack The Box, TryHackMe y CTFs competitivos, enfocados en categorías cloud y defensa.  
+> [Repositorio](https://github.com/[tu-usuario]/ctf-writeups)
+
+---
+
+## 📈 Estadísticas de GitHub (opcional, si ya tienes actividad)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[AlvaDevs]&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aalvarez-p)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalvarez.contact04@gmail.com)
+[![Portafolio/Blog](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://[tu-sitio].github.io)
