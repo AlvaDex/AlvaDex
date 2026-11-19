@@ -43,7 +43,7 @@ fun_fact: "I break things in isolated Docker labs just to prove my detection rul
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlvaDex/AlvaDex/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlvaDex&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" alt="trophy graph" />
 </div>
 
 ---
