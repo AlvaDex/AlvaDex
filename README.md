@@ -14,46 +14,73 @@
 ### 🧑‍💻 `whoami`
 
 ```yaml
-role: "Software Developer & Aspiring SOC / Blue Team Analyst"
-currently_building: "🛡️ Vigía — Lightweight attack detection & purple team validation platform"
-focus_areas:
-  - "Threat Detection & Log Analysis (MITRE ATT&CK, YAML / Sigma-style rules)"
-  - "Full-Stack Web Engineering & REST APIs"
-  - "Custom Linux Environments & Automation"
-fun_fact: "I break things in isolated Docker labs just to prove my detection rules actually catch them."
+user:
+  name: "Álvaro (@AlvaDex)"
+  role: "Software Design & Networks Student | Aspiring SOC Analyst"
+  location: "Mérida, Yucatán, MX 🇲🇽"
+
+mission:
+  currently_building: "🛡️ Vigía — Attack detection & purple team validation platform"
+  philosophy: "Don't just write detection rules—emulate the attack in Docker and prove they trigger."
+
+interests:
+  - "Threat Detection & Log Engineering (MITRE ATT&CK, Sigma/YAML)"
+  - "Backend APIs & Full-Stack Web Applications"
+  - "Linux Rice, Window Managers & CLI Tooling"
 ```
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 Featured Project
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,react,tailwind,vite,postgres,docker,linux,git,githubactions&perline=6" alt="Tech Stack" />
+
+| 🛡️ **Vigía** — *Lightweight Attack Detection Platform* |
+| :--- |
+| Real-time server & application log ingestion engine that maps suspicious patterns to **MITRE ATT&CK** and ships with an isolated **Purple Team** attack simulation lab. |
+| **Stack:** `Python 3.14` • `FastAPI` • `PostgreSQL` • `React` • `TypeScript` • `Docker` • `YAML Rules` |
+| 👉 [**Explore Repository**](https://github.com/AlvaDex/vigia) |
+
 </div>
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 🧰 Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlvaDex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaDex&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="165" alt="top languages" />
+
+**Languages & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,cpp,ts,postgres" alt="Backend Stack" />
+
+<br/><br/>
+
+**Frontend & UI**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" alt="Frontend Stack" />
+
+<br/><br/>
+
+**Security, DevOps & Environment**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,githubactions,vscode" alt="DevOps and OS Stack" />
+
+</div>
+
+---
+
+### 📊 GitHub Metrics & Contribution Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlvaDex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaDex&layout=compact&theme=dracula&hide_border=false&border_radius=6" height="170" alt="top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvaDex&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaDex&theme=dracula&hide_border=false&area=true&radius=6" width="95%" alt="activity graph" />
 </div>
 
----
-
-### 👾 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaDex/AlvaDex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaDex/AlvaDex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlvaDex/AlvaDex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
-</div>
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
