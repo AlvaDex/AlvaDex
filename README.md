@@ -15,7 +15,7 @@
 
 ```yaml
 user:
-  name: "Álvaro (@AlvaDex)"
+  name: "Álvaro (@AlvaDex) Álvarez"
   role: "Software Design & Networks Student | Aspiring SOC Analyst"
   location: "Mérida, Yucatán, MX 🇲🇽"
 
